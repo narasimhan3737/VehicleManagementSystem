@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAuG9NXaKzhf0QrUptXl2MKud4Zo9s-TLU",
+    authDomain: "smartbus-b759f.firebaseapp.com",
+    databaseURL: "https://smartbus-b759f.firebaseio.com",
+    projectId: "smartbus-b759f",
+    storageBucket: "smartbus-b759f.appspot.com",
+    messagingSenderId: "1009760083816",
+    appId: "1:1009760083816:web:c7caeec25db96dbf0f80dd"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
